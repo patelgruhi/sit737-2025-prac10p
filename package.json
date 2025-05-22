@@ -1,0 +1,24 @@
+{
+  "name": "sit737-2025-prac2p",
+  "version": "1.0.0",
+  "description": "This repository contains the necessary files and instructions for deploying a Node.js application to a Kubernetes cluster and interacting with it. This project was developed as part of the SIT323/SIT737 Cloud Native Application Development unit.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patelgruhi/sit737-2025-prac2p.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patelgruhi/sit737-2025-prac2p/issues"
+  },
+  "homepage": "https://github.com/patelgruhi/sit737-2025-prac2p#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {}
+}
